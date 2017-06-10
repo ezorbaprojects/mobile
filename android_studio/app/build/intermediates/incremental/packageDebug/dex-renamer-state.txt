@@ -1,0 +1,7 @@
+#Sat Jun 10 13:58:29 IST 2017
+base.0=/Users/mackbook/StudioProjects/mobile/android_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f21ca61d781777af9b638a27625a9964e51476b2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/mackbook/StudioProjects/mobile/android_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2008667f1520f67085f55cdf49a5035dbd5e5278/classes.dex
+base.1=/Users/mackbook/StudioProjects/mobile/android_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2008667f1520f67085f55cdf49a5035dbd5e5278
+file.0=/Users/mackbook/StudioProjects/mobile/android_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f21ca61d781777af9b638a27625a9964e51476b2/classes.dex
