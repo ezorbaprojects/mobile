@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mackbook/StudioProjects/mobile/as_android/app/build/intermediates/res/merged/debug/menu/sample.xml",
+        "source": "/Users/mackbook/StudioProjects/mobile/as_android/app/src/main/res/menu/sample.xml"
+    },
+    {
+        "merged": "/Users/mackbook/StudioProjects/mobile/as_android/app/build/intermediates/res/merged/debug/menu/done.xml",
+        "source": "/Users/mackbook/StudioProjects/mobile/as_android/app/src/main/res/menu/done.xml"
+    }
+]
