@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="repeat_types">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Weekly</item>
-    </string-array>
-</resources>
